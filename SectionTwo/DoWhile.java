@@ -23,6 +23,7 @@ public class DoWhile {
 
         }while(!uname.equals("username") && !pword.equals("password"));
         System.out.println("Congratulations you logged in");
+        sc.close();
 
         // Lesson exercise : Learn more about loops
 

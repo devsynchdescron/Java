@@ -19,7 +19,7 @@ public class Operators {
 
         // == checks if 2 variables are equal
         // = is assignment operator do not confuse it with == 
-        System.out.println("does 5 equal to 5 :"+(5 == 5));
+        System.out.println("does 6 equal to 5 :"+(6 == 5));
 
         // ! is used to revert the condition
         System.out.println("reverse of false :"+!false);
