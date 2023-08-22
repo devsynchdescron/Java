@@ -30,6 +30,8 @@ public class WhileLoop {
         
         System.out.println("Out of the loop");
 
+        // Lesson exercise : Learn more about loops
 
+        // Optional : look for fizzbuzz problem
     }
 }

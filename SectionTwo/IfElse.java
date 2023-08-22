@@ -34,6 +34,6 @@ public class IfElse {
         // look for nested if-else statements
 
         // Optional : Learn UML diagram 
-        // draw a UML diagram for your if-else statement
+        // draw a flowchart for your if-else statement
     }
 }
