@@ -1,4 +1,4 @@
-package SectionThree.OOP.ClassesAndObjects;
+package SectionThree.ClassesAndObjects;
 
 public class Car {
     public int wheels = 4; // Car attributes

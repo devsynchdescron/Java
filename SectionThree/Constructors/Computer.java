@@ -1,4 +1,4 @@
-package SectionThree.OOP.Constructors;
+package SectionThree.Constructors;
 
 public class Computer {
     final public static String SCREENSIZE = "17 inch";

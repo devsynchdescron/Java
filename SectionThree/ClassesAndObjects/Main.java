@@ -1,4 +1,4 @@
-package SectionThree.OOP.ClassesAndObjects;
+package SectionThree.ClassesAndObjects;
 
 public class Main {
     public static void main(String[] args) {

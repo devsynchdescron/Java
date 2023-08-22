@@ -1,4 +1,4 @@
-package SectionThree.OOP.Constructors;
+package SectionThree.Constructors;
 
 public class Main {
     public static void main(String[] args) {
